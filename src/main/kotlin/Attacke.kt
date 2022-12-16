@@ -6,5 +6,7 @@ open class Attacke() {
         return angrifswertrandom
 
     }
+
+    //Test
 }
 
